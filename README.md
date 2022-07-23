@@ -3,3 +3,4 @@
 ## Examples
 
 - [GUESSING_GAME](./GUESSING_GAME/)
+- [VARIABLES](./VARIABLES/)
