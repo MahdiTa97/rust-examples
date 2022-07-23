@@ -1,4 +1,4 @@
-# Code examples to learning Rust programming language
+# Code Examples to Learning Rust Programming Language
 
 ## Examples
 
