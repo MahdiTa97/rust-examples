@@ -6,6 +6,7 @@ fn main() {
     boolean_type();
     character_type();
     tuple_type();
+    array_type();
 }
 
 fn variables() {
