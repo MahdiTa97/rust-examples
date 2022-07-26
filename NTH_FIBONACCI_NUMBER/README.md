@@ -1,3 +1,7 @@
+# nth Fibonacci number
+
+Generate the nth Fibonacci number.
+
 ### Read more details here:
 
 - [First](https://doc.rust-lang.org/book/ch03-05-control-flow.html#summary)
